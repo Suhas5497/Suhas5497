@@ -19,6 +19,7 @@
 <img src="assets/featured.svg" width="100%" alt="Featured projects">
 
 <a href="https://github.com/Suhas5497/customer-churn-prediction-system"><img src="assets/projects/customer-churn-prediction-system.svg" width="49%" alt="Customer Churn Prediction — 0.84 ROC-AUC, 88% churn recall"></a>&nbsp;<a href="https://github.com/Suhas5497/sales-intelligence-platform"><img src="assets/projects/sales-intelligence-platform.svg" width="49%" alt="Sales Intelligence Platform — 300K orders, star-schema warehouse"></a>
+<a href="https://customer-churn-prediction-system-oneq3amaedjugshgt599ip.streamlit.app/"><img src="assets/demo-customer-churn-prediction-system.svg" width="49%" alt="Open the live customer churn prediction system app"></a>&nbsp;<a href="https://sales-intelligence-platform-dovb9bnzxw69tvcorxpqqz.streamlit.app/"><img src="assets/demo-sales-intelligence-platform.svg" width="49%" alt="Open the live sales intelligence platform app"></a>
 
 <a href="https://github.com/Suhas5497/ecommerce-sql-analytics"><img src="assets/projects/ecommerce-sql-analytics.svg" width="49%" alt="E-Commerce Analytics — advanced SQL on 99K Olist orders"></a>&nbsp;<a href="https://github.com/Suhas5497/Yes-Bank-Stock-Price-Analysis-Future-Price-Prediction"><img src="assets/projects/Yes-Bank-Stock-Price-Analysis-Future-Price-Prediction.svg" width="49%" alt="Yes Bank Stock Forecasting — Random Forest and ARIMA"></a>
 
