@@ -10,7 +10,7 @@
 
 <br><br>
 
-<img src="assets/impact.svg" width="100%" alt="Impact: 85% churn-model accuracy on 7,000+ customers, 35% less weekly data-processing time, ~6 analyst hours saved weekly with Power BI, Top 5% in the Imarticus Data Science Hackathon.">
+<img src="assets/impact.svg" width="100%" alt="Impact: 0.84 ROC-AUC churn model with 88% churn recall on 7,032 customers, 35% less weekly data-processing time, ~6 analyst hours saved weekly with Power BI, Top 5% in the Imarticus Data Science Hackathon.">
 
 <a href="https://resilytics.in"><img src="assets/flagship.svg" width="100%" alt="Flagship: Resilytics, a live decision-intelligence SaaS built solo — ingest, analyze, simulate, decide."></a>
 
