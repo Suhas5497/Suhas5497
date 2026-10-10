@@ -1,33 +1,129 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="262" viewBox="0 0 840 262" role="img" aria-label="Expertise — Data Analytics: SQL, Pandas, Power BI, DAX, Tableau, A/B testing. Machine Learning: Scikit-learn, XGBoost, TensorFlow, ARIMA, Clustering. AI Engineering: FastAPI, Streamlit, NLP, Computer vision, Embeddings &amp; retrieval.">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="547" viewBox="0 0 840 547" role="img" aria-label="Expertise — Data Analytics: advanced in SQL, Python, Pandas, NumPy, Power BI, DAX, Excel, EDA, ETL pipelines, Data validation, RFM &amp; cohorts, KPI design, Star schema, Matplotlib, Seaborn; working knowledge of Tableau, A/B testing, Hypothesis testing, Statistics. Machine Learning: advanced in Scikit-learn, XGBoost, Random Forest, Logistic Regression, Classification, Regression, SHAP, ARIMA, Model evaluation, Threshold tuning, Feature engineering; working knowledge of TensorFlow, Clustering, SARIMA, Anomaly detection, Deep learning. AI &amp; Product Engineering: advanced in FastAPI, Streamlit, PostgreSQL, DuckDB, Redis, React, TypeScript, Git, Monte Carlo simulation; working knowledge of NLP, LLM APIs, Embeddings &amp; RAG, Computer vision, OpenCV, Docker, AWS.">
 <defs>
   <linearGradient id="prod" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#141a2c"/><stop offset="1" stop-color="#0d1220"/></linearGradient>
   <linearGradient id="rule" x1="0" x2="1"><stop offset="0" stop-color="#c9a96e" stop-opacity=".5"/><stop offset="1" stop-color="#c9a96e" stop-opacity="0"/></linearGradient>
 </defs>
-<rect x=".5" y=".5" width="839" height="261" rx="14" fill="#0a0e1a" stroke="#1d2438"/>
+<rect x=".5" y=".5" width="839" height="546" rx="14" fill="#0a0e1a" stroke="#1d2438"/>
 
 <text x="44" y="50" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="700" letter-spacing="3" fill="#c9a96e">EXPERTISE</text>
 <line x1="135.39999999999998" y1="46" x2="796" y2="46" stroke="#1d2438"/>
-<rect x="44" y="72" width="241.33333333333334" height="160" rx="10" fill="#0d1220" stroke="#1d2438"/>
-<text x="62" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#e8e6e1">Data Analytics</text><rect x="62" y="120" width="46" height="28" rx="6" fill="#111729" stroke="#232b42"/>
-<text x="85" y="138.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#d6d4cf">SQL</text><rect x="116" y="120" width="68" height="28" rx="6" fill="#111729" stroke="#232b42"/>
-<text x="150" y="138.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#d6d4cf">Pandas</text><rect x="62" y="156" width="82" height="28" rx="6" fill="#111729" stroke="#232b42"/>
-<text x="103" y="174.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#d6d4cf">Power BI</text><rect x="152" y="156" width="46" height="28" rx="6" fill="#111729" stroke="#232b42"/>
-<text x="175" y="174.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#d6d4cf">DAX</text><rect x="62" y="192" width="75" height="28" rx="6" fill="#111729" stroke="#232b42"/>
-<text x="99.5" y="210.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#d6d4cf">Tableau</text><rect x="145" y="192" width="104" height="28" rx="6" fill="#111729" stroke="#232b42"/>
-<text x="197" y="210.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#d6d4cf">A/B testing</text>
-<rect x="299.33333333333337" y="72" width="241.33333333333334" height="160" rx="10" fill="#0d1220" stroke="#1d2438"/>
-<text x="317.33333333333337" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#e8e6e1">Machine Learning</text><rect x="317.33333333333337" y="120" width="112" height="28" rx="6" fill="#111729" stroke="#232b42"/>
-<text x="373.33333333333337" y="138.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#d6d4cf">Scikit-learn</text><rect x="437.33333333333337" y="120" width="75" height="28" rx="6" fill="#111729" stroke="#232b42"/>
-<text x="474.83333333333337" y="138.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#d6d4cf">XGBoost</text><rect x="317.33333333333337" y="156" width="97" height="28" rx="6" fill="#111729" stroke="#232b42"/>
-<text x="365.83333333333337" y="174.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#d6d4cf">TensorFlow</text><rect x="422.33333333333337" y="156" width="61" height="28" rx="6" fill="#111729" stroke="#232b42"/>
-<text x="452.83333333333337" y="174.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#d6d4cf">ARIMA</text><rect x="317.33333333333337" y="192" width="97" height="28" rx="6" fill="#111729" stroke="#232b42"/>
-<text x="365.83333333333337" y="210.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#d6d4cf">Clustering</text>
-<rect x="554.6666666666667" y="72" width="241.33333333333334" height="160" rx="10" fill="#0d1220" stroke="#1d2438"/>
-<text x="572.6666666666667" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#e8e6e1">AI Engineering</text><rect x="572.6666666666667" y="120" width="75" height="28" rx="6" fill="#111729" stroke="#232b42"/>
-<text x="610.1666666666667" y="138.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#d6d4cf">FastAPI</text><rect x="655.6666666666667" y="120" width="90" height="28" rx="6" fill="#111729" stroke="#232b42"/>
-<text x="700.6666666666667" y="138.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#d6d4cf">Streamlit</text><rect x="572.6666666666667" y="156" width="46" height="28" rx="6" fill="#111729" stroke="#232b42"/>
-<text x="595.6666666666667" y="174.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#d6d4cf">NLP</text><rect x="626.6666666666667" y="156" width="134" height="28" rx="6" fill="#111729" stroke="#232b42"/>
-<text x="693.6666666666667" y="174.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#d6d4cf">Computer vision</text><rect x="572.6666666666667" y="192" width="185" height="28" rx="6" fill="#111729" stroke="#232b42"/>
-<text x="665.1666666666667" y="210.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#d6d4cf">Embeddings &amp; retrieval</text>
+<rect x="548" y="40" width="10" height="10" rx="2" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".6"/>
+<text x="564" y="49" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#a7a9b4">Advanced</text>
+<rect x="632" y="40" width="10" height="10" rx="2" fill="none" stroke="#3a4360"/>
+<text x="648" y="49" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#a7a9b4">Working knowledge</text>
+<rect x="44" y="72" width="241.33333333333334" height="445" rx="10" fill="#0d1220" stroke="#1d2438"/>
+<text x="60" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#e8e6e1">Data Analytics</text>
+<text x="60" y="126" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#c9a96e">ADVANCED</text>
+<rect x="60" y="138" width="40" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="80" y="154.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">SQL</text>
+<rect x="106" y="138" width="59" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="135.5" y="154.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">Python</text>
+<rect x="171" y="138" width="59" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="200.5" y="154.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">Pandas</text>
+<rect x="60" y="169" width="53" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="86.5" y="185.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">NumPy</text>
+<rect x="119" y="169" width="71" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="154.5" y="185.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">Power BI</text>
+<rect x="196" y="169" width="40" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="216" y="185.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">DAX</text>
+<rect x="60" y="200" width="53" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="86.5" y="216.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">Excel</text>
+<rect x="119" y="200" width="40" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="139" y="216.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">EDA</text>
+<rect x="165" y="200" width="101" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="215.5" y="216.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">ETL pipelines</text>
+<rect x="60" y="231" width="114" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="117" y="247.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">Data validation</text>
+<rect x="60" y="262" width="101" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="110.5" y="278.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">RFM &amp; cohorts</text>
+<rect x="167" y="262" width="83" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="208.5" y="278.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">KPI design</text>
+<rect x="60" y="293" width="89" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="104.5" y="309.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">Star schema</text>
+<rect x="155" y="293" width="83" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="196.5" y="309.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">Matplotlib</text>
+<rect x="60" y="324" width="65" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="92.5" y="340.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">Seaborn</text>
+<text x="60" y="367" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#8a8d99">WORKING KNOWLEDGE</text>
+<rect x="60" y="379" width="65" height="25" rx="6" fill="none" stroke="#2a3248"/>
+<text x="92.5" y="395.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#8a8d99">Tableau</text>
+<rect x="131" y="379" width="89" height="25" rx="6" fill="none" stroke="#2a3248"/>
+<text x="175.5" y="395.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#8a8d99">A/B testing</text>
+<rect x="60" y="410" width="132" height="25" rx="6" fill="none" stroke="#2a3248"/>
+<text x="126" y="426.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#8a8d99">Hypothesis testing</text>
+<rect x="60" y="441" width="83" height="25" rx="6" fill="none" stroke="#2a3248"/>
+<text x="101.5" y="457.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#8a8d99">Statistics</text>
+<rect x="299.33333333333337" y="72" width="241.33333333333334" height="445" rx="10" fill="#0d1220" stroke="#1d2438"/>
+<text x="315.33333333333337" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#e8e6e1">Machine Learning</text>
+<text x="315.33333333333337" y="126" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#c9a96e">ADVANCED</text>
+<rect x="315.33333333333337" y="138" width="95" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="362.83333333333337" y="154.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">Scikit-learn</text>
+<rect x="416.33333333333337" y="138" width="65" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="448.83333333333337" y="154.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">XGBoost</text>
+<rect x="315.33333333333337" y="169" width="101" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="365.83333333333337" y="185.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">Random Forest</text>
+<rect x="315.33333333333337" y="200" width="138" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="384.33333333333337" y="216.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">Logistic Regression</text>
+<rect x="315.33333333333337" y="231" width="107" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="368.83333333333337" y="247.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">Classification</text>
+<rect x="428.33333333333337" y="231" width="83" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="469.83333333333337" y="247.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">Regression</text>
+<rect x="315.33333333333337" y="262" width="46" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="338.33333333333337" y="278.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">SHAP</text>
+<rect x="367.33333333333337" y="262" width="53" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="393.83333333333337" y="278.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">ARIMA</text>
+<rect x="315.33333333333337" y="293" width="120" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="375.33333333333337" y="309.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">Model evaluation</text>
+<rect x="315.33333333333337" y="324" width="120" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="375.33333333333337" y="340.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">Threshold tuning</text>
+<rect x="315.33333333333337" y="355" width="138" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="384.33333333333337" y="371.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">Feature engineering</text>
+<text x="315.33333333333337" y="398" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#8a8d99">WORKING KNOWLEDGE</text>
+<rect x="315.33333333333337" y="410" width="83" height="25" rx="6" fill="none" stroke="#2a3248"/>
+<text x="356.83333333333337" y="426.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#8a8d99">TensorFlow</text>
+<rect x="404.33333333333337" y="410" width="83" height="25" rx="6" fill="none" stroke="#2a3248"/>
+<text x="445.83333333333337" y="426.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#8a8d99">Clustering</text>
+<rect x="315.33333333333337" y="441" width="59" height="25" rx="6" fill="none" stroke="#2a3248"/>
+<text x="344.83333333333337" y="457.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#8a8d99">SARIMA</text>
+<rect x="380.33333333333337" y="441" width="126" height="25" rx="6" fill="none" stroke="#2a3248"/>
+<text x="443.33333333333337" y="457.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#8a8d99">Anomaly detection</text>
+<rect x="315.33333333333337" y="472" width="101" height="25" rx="6" fill="none" stroke="#2a3248"/>
+<text x="365.83333333333337" y="488.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#8a8d99">Deep learning</text>
+<rect x="554.6666666666667" y="72" width="241.33333333333334" height="445" rx="10" fill="#0d1220" stroke="#1d2438"/>
+<text x="570.6666666666667" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#e8e6e1">AI &amp; Product Engineering</text>
+<text x="570.6666666666667" y="126" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#c9a96e">ADVANCED</text>
+<rect x="570.6666666666667" y="138" width="65" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="603.1666666666667" y="154.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">FastAPI</text>
+<rect x="641.6666666666667" y="138" width="77" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="680.1666666666667" y="154.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">Streamlit</text>
+<rect x="570.6666666666667" y="169" width="83" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="612.1666666666667" y="185.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">PostgreSQL</text>
+<rect x="659.6666666666667" y="169" width="59" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="689.1666666666667" y="185.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">DuckDB</text>
+<rect x="724.6666666666667" y="169" width="53" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="751.1666666666667" y="185.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">Redis</text>
+<rect x="570.6666666666667" y="200" width="53" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="597.1666666666667" y="216.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">React</text>
+<rect x="629.6666666666667" y="200" width="83" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="671.1666666666667" y="216.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">TypeScript</text>
+<rect x="718.6666666666667" y="200" width="40" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="738.6666666666667" y="216.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">Git</text>
+<rect x="570.6666666666667" y="231" width="156" height="25" rx="6" fill="#141a2c" stroke="#c9a96e" stroke-opacity=".45"/>
+<text x="648.6666666666667" y="247.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#e8e6e1">Monte Carlo simulation</text>
+<text x="570.6666666666667" y="274" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#8a8d99">WORKING KNOWLEDGE</text>
+<rect x="570.6666666666667" y="286" width="40" height="25" rx="6" fill="none" stroke="#2a3248"/>
+<text x="590.6666666666667" y="302.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#8a8d99">NLP</text>
+<rect x="616.6666666666667" y="286" width="71" height="25" rx="6" fill="none" stroke="#2a3248"/>
+<text x="652.1666666666667" y="302.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#8a8d99">LLM APIs</text>
+<rect x="570.6666666666667" y="317" width="120" height="25" rx="6" fill="none" stroke="#2a3248"/>
+<text x="630.6666666666667" y="333.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#8a8d99">Embeddings &amp; RAG</text>
+<rect x="570.6666666666667" y="348" width="114" height="25" rx="6" fill="none" stroke="#2a3248"/>
+<text x="627.6666666666667" y="364.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#8a8d99">Computer vision</text>
+<rect x="690.6666666666667" y="348" width="59" height="25" rx="6" fill="none" stroke="#2a3248"/>
+<text x="720.1666666666667" y="364.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#8a8d99">OpenCV</text>
+<rect x="570.6666666666667" y="379" width="59" height="25" rx="6" fill="none" stroke="#2a3248"/>
+<text x="600.1666666666667" y="395.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#8a8d99">Docker</text>
+<rect x="635.6666666666667" y="379" width="40" height="25" rx="6" fill="none" stroke="#2a3248"/>
+<text x="655.6666666666667" y="395.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#8a8d99">AWS</text>
 
 </svg>

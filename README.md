@@ -14,6 +14,6 @@
 
 <a href="https://resilytics.in"><img src="assets/flagship.svg" width="100%" alt="Flagship: Resilytics, a live decision-intelligence SaaS built solo — ingest, analyze, simulate, decide."></a>
 
-<img src="assets/expertise.svg" width="100%" alt="Expertise in Data Analytics, Machine Learning and AI Engineering.">
+<img src="assets/expertise.svg" width="100%" alt="Expertise in Data Analytics, Machine Learning and AI &amp; Product Engineering, split into advanced skills and working knowledge.">
 
 </div>
