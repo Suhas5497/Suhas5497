@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="232" viewBox="0 0 840 232" role="img" aria-label="Impact: 85% churn-model accuracy, 35% faster ETL, ~6 analyst hours saved weekly, Top 5% in the Imarticus Data Science Hackathon.">
+<defs>
+  <linearGradient id="prod" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#141a2c"/><stop offset="1" stop-color="#0d1220"/></linearGradient>
+  <linearGradient id="rule" x1="0" x2="1"><stop offset="0" stop-color="#c9a96e" stop-opacity=".5"/><stop offset="1" stop-color="#c9a96e" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x=".5" y=".5" width="839" height="231" rx="14" fill="#0a0e1a" stroke="#1d2438"/>
+
+<text x="44" y="50" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="700" letter-spacing="3" fill="#c9a96e">IMPACT IN NUMBERS</text>
+<line x1="204.2" y1="46" x2="796" y2="46" stroke="#1d2438"/>
+<rect x="44" y="72" width="179" height="128" rx="10" fill="#0d1220" stroke="#1d2438"/>
+<text x="62" y="114" font-family="Georgia, 'Times New Roman', serif" font-size="32" fill="#c9a96e">85%</text>
+<text x="62" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#8a8d99" >test accuracy — XGBoost</text>
+<text x="62" y="161" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#8a8d99" >churn model on 7,000+</text>
+<text x="62" y="180" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#8a8d99" >customers</text>
+<rect x="235" y="72" width="179" height="128" rx="10" fill="#0d1220" stroke="#1d2438"/>
+<text x="253" y="114" font-family="Georgia, 'Times New Roman', serif" font-size="32" fill="#c9a96e">35%</text>
+<text x="253" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#8a8d99" >less weekly data-</text>
+<text x="253" y="161" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#8a8d99" >processing time via</text>
+<text x="253" y="180" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#8a8d99" >automated ETL</text>
+<rect x="426" y="72" width="179" height="128" rx="10" fill="#0d1220" stroke="#1d2438"/>
+<text x="444" y="114" font-family="Georgia, 'Times New Roman', serif" font-size="32" fill="#c9a96e">~6 hrs</text>
+<text x="444" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#8a8d99" >analyst time saved</text>
+<text x="444" y="161" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#8a8d99" >weekly with Power BI</text>
+<text x="444" y="180" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#8a8d99" >dashboards</text>
+<rect x="617" y="72" width="179" height="128" rx="10" fill="#0d1220" stroke="#1d2438"/>
+<text x="635" y="114" font-family="Georgia, 'Times New Roman', serif" font-size="32" fill="#c9a96e">Top 5%</text>
+<text x="635" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#8a8d99" >Imarticus Data Science</text>
+<text x="635" y="161" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#8a8d99" >Hackathon (8th of</text>
+<text x="635" y="180" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#8a8d99" >150+ participants)</text>
+
+</svg>

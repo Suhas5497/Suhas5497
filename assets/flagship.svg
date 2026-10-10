@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="330" viewBox="0 0 840 330" role="img" aria-label="Flagship: Resilytics — live decision-intelligence SaaS. Ingest, analyze, simulate, decide.">
+<defs>
+  <linearGradient id="prod" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#141a2c"/><stop offset="1" stop-color="#0d1220"/></linearGradient>
+  <linearGradient id="rule" x1="0" x2="1"><stop offset="0" stop-color="#c9a96e" stop-opacity=".5"/><stop offset="1" stop-color="#c9a96e" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x=".5" y=".5" width="839" height="329" rx="14" fill="#0a0e1a" stroke="#1d2438"/>
+
+<text x="44" y="50" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="700" letter-spacing="3" fill="#c9a96e">FLAGSHIP</text>
+<line x1="126.8" y1="46" x2="796" y2="46" stroke="#1d2438"/>
+<rect x="44" y="72" width="752" height="226" rx="12" fill="url(#prod)" stroke="#c9a96e" stroke-opacity=".35"/>
+<text x="70" y="122" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#e8e6e1">Resilytics</text>
+<rect x="222" y="102" width="62" height="24" rx="12" fill="none" stroke="#3fb950" stroke-opacity=".45"/>
+<circle cx="236" cy="114" r="3.5" fill="#3fb950"/>
+<text x="244" y="118.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" letter-spacing="1" fill="#3fb950">LIVE</text>
+<text x="70" y="154" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#a7a9b4">Decision intelligence for businesses — designed, built and deployed solo.</text>
+<clipPath id="fc"><rect x="70" y="176" width="700" height="96" rx="8"/></clipPath>
+<g clip-path="url(#fc)"><rect x="70" y="176" width="700" height="96" fill="#1d2438"/>
+<rect x="70" y="176" width="175" height="96" fill="#0f1424"/>
+<text x="86" y="200" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" letter-spacing="1" fill="#c9a96e">01</text>
+<text x="86" y="222" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#e8e6e1">Ingest</text>
+<text x="86" y="242" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8a8d99" >Structured upload with</text>
+<text x="86" y="259" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8a8d99" >schema validation</text>
+<rect x="246" y="176" width="174" height="96" fill="#0f1424"/>
+<text x="261" y="200" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" letter-spacing="1" fill="#c9a96e">02</text>
+<text x="261" y="222" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#e8e6e1">Analyze</text>
+<text x="261" y="242" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8a8d99" >SQL/Python analytics on</text>
+<text x="261" y="259" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8a8d99" >a DuckDB warehouse</text>
+<rect x="421" y="176" width="174" height="96" fill="#0f1424"/>
+<text x="436" y="200" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" letter-spacing="1" fill="#c9a96e">03</text>
+<text x="436" y="222" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#e8e6e1">Simulate</text>
+<text x="436" y="242" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8a8d99" >Monte Carlo shock tests,</text>
+<text x="436" y="259" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8a8d99" >VaR-95, HHI, Altman Z</text>
+<rect x="596" y="176" width="174" height="96" fill="#0f1424"/>
+<text x="611" y="200" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" letter-spacing="1" fill="#c9a96e">04</text>
+<text x="611" y="222" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#e8e6e1">Decide</text>
+<text x="611" y="242" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8a8d99" >Executive reports: where</text>
+<text x="611" y="259" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8a8d99" >revenue is at risk</text>
+</g>
+<rect x="70" y="176" width="700" height="96" rx="8" fill="none" stroke="#1d2438"/>
+
+</svg>
