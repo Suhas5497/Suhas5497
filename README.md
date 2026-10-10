@@ -14,6 +14,8 @@
 
 <a href="https://resilytics.in"><img src="assets/flagship.svg" width="100%" alt="Flagship: Resilytics, a live decision-intelligence SaaS built solo — ingest, analyze, simulate, decide."></a>
 
+<a href="https://resilytics.in"><img src="assets/live-resilytics.svg" height="44" alt="Visit live site: resilytics.in"></a>
+
 <img src="assets/featured.svg" width="100%" alt="Featured projects">
 
 <a href="https://github.com/Suhas5497/customer-churn-prediction-system"><img src="assets/projects/customer-churn-prediction-system.svg" width="49%" alt="Customer Churn Prediction — 0.84 ROC-AUC, 88% churn recall"></a>&nbsp;<a href="https://github.com/Suhas5497/sales-intelligence-platform"><img src="assets/projects/sales-intelligence-platform.svg" width="49%" alt="Sales Intelligence Platform — 300K orders, star-schema warehouse"></a>
