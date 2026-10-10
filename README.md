@@ -14,6 +14,14 @@
 
 <a href="https://resilytics.in"><img src="assets/flagship.svg" width="100%" alt="Flagship: Resilytics, a live decision-intelligence SaaS built solo — ingest, analyze, simulate, decide."></a>
 
+<img src="assets/featured.svg" width="100%" alt="Featured projects">
+
+<a href="https://github.com/Suhas5497/customer-churn-prediction-system"><img src="assets/projects/customer-churn-prediction-system.svg" width="49%" alt="Customer Churn Prediction — 0.84 ROC-AUC, 88% churn recall"></a>&nbsp;<a href="https://github.com/Suhas5497/sales-intelligence-platform"><img src="assets/projects/sales-intelligence-platform.svg" width="49%" alt="Sales Intelligence Platform — 300K orders, star-schema warehouse"></a>
+
+<a href="https://github.com/Suhas5497/ecommerce-sql-analytics"><img src="assets/projects/ecommerce-sql-analytics.svg" width="49%" alt="E-Commerce Analytics — advanced SQL on 99K Olist orders"></a>&nbsp;<a href="https://github.com/Suhas5497/Yes-Bank-Stock-Price-Analysis-Future-Price-Prediction"><img src="assets/projects/Yes-Bank-Stock-Price-Analysis-Future-Price-Prediction.svg" width="49%" alt="Yes Bank Stock Forecasting — Random Forest and ARIMA"></a>
+
+<a href="https://github.com/Suhas5497/movie-recommendation-system"><img src="assets/projects/movie-recommendation-system.svg" width="49%" alt="Movie Recommender — NLP and cosine similarity"></a>&nbsp;<a href="https://github.com/Suhas5497/amazon-prime-analysis"><img src="assets/projects/amazon-prime-analysis.svg" width="49%" alt="Amazon Prime Analysis — EDA of 9,871 titles"></a>
+
 <img src="assets/expertise.svg" width="100%" alt="Expertise in Data Analytics, Machine Learning and AI &amp; Product Engineering, split into advanced skills and working knowledge.">
 
 </div>

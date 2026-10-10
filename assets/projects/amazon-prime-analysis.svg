@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="320" viewBox="0 0 640 320" role="img" aria-label="Amazon Prime Analysis — What is on Prime Video: genres, countries, release trends and ratings.">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#121830"/><stop offset=".55" stop-color="#0a0e1a"/></linearGradient></defs>
+<rect x=".5" y=".5" width="639" height="319" rx="16" fill="url(#g)" stroke="#1d2438"/>
+<rect x="24" y="0.5" width="592" height="2.5" rx="1.25" fill="#c9a96e" fill-opacity=".7"/>
+<g transform="translate(480 30)"><g stroke="#c9a96e" stroke-opacity=".55" fill="none" stroke-width="2"><rect x="4" y="12" width="34" height="50" rx="3"/><rect x="44" y="6" width="34" height="50" rx="3" fill="#c9a96e" fill-opacity=".15"/><rect x="84" y="12" width="34" height="50" rx="3"/></g></g>
+<text x="32" y="48" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="2.6" fill="#c9a96e">EXPLORATORY DATA ANALYSIS</text>
+<text x="32" y="92" font-family="Georgia, 'Times New Roman', serif" font-size="32" fill="#e8e6e1">Amazon Prime Analysis</text>
+<text x="32" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#a7a9b4">What is on Prime Video: genres, countries,</text>
+<text x="32" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#a7a9b4">release trends and ratings.</text>
+<rect x="32" y="182" width="140" height="62" rx="10" fill="#0d1220" stroke="#1d2438"/>
+<text x="46" y="212" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#c9a96e">9,871</text>
+<text x="46" y="232" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" fill="#8a8d99">titles analysed</text>
+<rect x="184" y="182" width="140" height="62" rx="10" fill="#0d1220" stroke="#1d2438"/>
+<text x="198" y="212" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#c9a96e">4,809</text>
+<text x="198" y="232" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" fill="#8a8d99">US titles</text>
+<rect x="336" y="182" width="140" height="62" rx="10" fill="#0d1220" stroke="#1d2438"/>
+<text x="350" y="212" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#c9a96e">2019–21</text>
+<text x="350" y="232" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" fill="#8a8d99">peak release years</text>
+<line x1="32" y1="268" x2="608" y2="268" stroke="#1d2438"/>
+<text x="32" y="292" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" letter-spacing="1" fill="#8a8d99">Pandas  ·  Seaborn  ·  EDA</text>
+<text x="608" y="292" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#c9a96e">View project →</text>
+</svg>

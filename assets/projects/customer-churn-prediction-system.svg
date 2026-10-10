@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="320" viewBox="0 0 640 320" role="img" aria-label="Customer Churn Prediction — Ranks telecom customers by churn risk, explains each prediction with SHAP and sizes revenue at risk.">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#121830"/><stop offset=".55" stop-color="#0a0e1a"/></linearGradient></defs>
+<rect x=".5" y=".5" width="639" height="319" rx="16" fill="url(#g)" stroke="#1d2438"/>
+<rect x="24" y="0.5" width="592" height="2.5" rx="1.25" fill="#c9a96e" fill-opacity=".7"/>
+<g transform="translate(480 30)"><g stroke="#c9a96e" stroke-opacity=".6" fill="none" stroke-width="2"><path d="M0 70 H120 M4 70 V4"/><path d="M6 66 C30 30, 50 18, 116 10"/><path d="M6 66 L116 66" stroke-opacity=".25"/><circle cx="40" cy="30" r="3.5" fill="#c9a96e"/></g></g>
+<text x="32" y="48" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="2.6" fill="#c9a96e">MACHINE LEARNING</text>
+<text x="32" y="90" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#e8e6e1">Customer Churn Prediction</text>
+<text x="32" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#a7a9b4">Ranks telecom customers by churn risk, explains each</text>
+<text x="32" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#a7a9b4">prediction with SHAP and sizes revenue at risk.</text>
+<rect x="32" y="182" width="140" height="62" rx="10" fill="#0d1220" stroke="#1d2438"/>
+<text x="46" y="212" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#c9a96e">0.84</text>
+<text x="46" y="232" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" fill="#8a8d99">ROC-AUC</text>
+<rect x="184" y="182" width="140" height="62" rx="10" fill="#0d1220" stroke="#1d2438"/>
+<text x="198" y="212" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#c9a96e">88%</text>
+<text x="198" y="232" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" fill="#8a8d99">churn recall</text>
+<rect x="336" y="182" width="140" height="62" rx="10" fill="#0d1220" stroke="#1d2438"/>
+<text x="350" y="212" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#c9a96e">$2.5M</text>
+<text x="350" y="232" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" fill="#8a8d99">annual revenue at risk</text>
+<line x1="32" y1="268" x2="608" y2="268" stroke="#1d2438"/>
+<text x="32" y="292" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" letter-spacing="1" fill="#8a8d99">XGBoost  ·  SHAP  ·  Streamlit</text>
+<text x="608" y="292" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#c9a96e">View project →</text>
+</svg>
