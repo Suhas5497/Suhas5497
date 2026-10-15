@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Suhas Dhamapurkar — Data and AI, turned into decisions that move revenue. Data Analyst and AI/ML Engineer, founder of Resilytics.">
+<img src="assets/hero.svg" width="100%" alt="Suhas Dhamapurkar — Data and AI, turned into decisions that move revenue. Data Analyst and AI/ML Engineer. Open to full-time Data Analyst roles.">
 
 <a href="https://resilytics.in"><img src="assets/btn-resilytics.svg" alt="resilytics.in" height="38"></a>&nbsp;
 <a href="https://linkedin.com/in/suhas-1710d"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="38"></a>&nbsp;
@@ -12,7 +12,7 @@
 
 <img src="assets/impact.svg" width="100%" alt="Impact: 0.84 ROC-AUC churn model with 88% churn recall on 7,032 customers, 35% less weekly data-processing time, ~6 analyst hours saved weekly with Power BI, Top 5% in the Imarticus Data Science Hackathon.">
 
-<a href="https://resilytics.in"><img src="assets/flagship.svg" width="100%" alt="Flagship: Resilytics, a live decision-intelligence SaaS built solo — ingest, analyze, simulate, decide."></a>
+<a href="https://resilytics.in"><img src="assets/flagship.svg" width="100%" alt="Flagship project: Resilytics, a live data and AI decision-intelligence platform — ingest, analyze, simulate, decide."></a>
 
 <a href="https://resilytics.in"><img src="assets/live-resilytics.svg" height="44" alt="Visit live site: resilytics.in"></a>
 
